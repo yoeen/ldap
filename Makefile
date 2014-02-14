@@ -4,7 +4,7 @@
 
 include $(GOROOT)/src/Make.inc
 
-TARG=github.com/hsoj/ldap
+TARG=github.com/yoeen/ldap
 GOFILES=\
 	bind.go\
 	conn.go\
